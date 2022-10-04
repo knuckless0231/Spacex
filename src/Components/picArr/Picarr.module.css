@@ -1,0 +1,18 @@
+.picarr{
+    background-color: rgb(61, 158, 248);
+    grid-area: m;
+    height: 900px;
+}
+
+.arrlogos{
+    width: 650px;
+    height: 600px;
+}
+
+.arr{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
