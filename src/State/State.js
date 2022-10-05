@@ -46,10 +46,10 @@ const state = {
     },
     "first_flight": "2010-12-08",
     "flickr_images": [
-       "https://i.imgur.com/9fWdwNv.jpg",
-       "https://live.staticflickr.com/8578/16655995541_078768dea2_b.jpg",
+        "https://i.imgur.com/9fWdwNv.jpg",
+        "https://live.staticflickr.com/8578/16655995541_078768dea2_b.jpg",
         "https://farm3.staticflickr.com/2815/32761844973_4b55b27d3c_b.jpg",
-       "https://farm9.staticflickr.com/8618/16649075267_d18cbb4342_b.jpg"
+        "https://farm9.staticflickr.com/8618/16649075267_d18cbb4342_b.jpg"
     ],
     "name": "Dragon 1",
     "type": "capsule",
@@ -74,7 +74,7 @@ const state = {
     },
     "wikipedia": "https://en.wikipedia.org/wiki/SpaceX_Dragon",
     "description": "Dragon is a reusable spacecraft developed by SpaceX, an American private space transportation company based in Hawthorne, California. Dragon is launched into space by the SpaceX Falcon 9 two-stage-to-orbit launch vehicle. The Dragon spacecraft was originally designed for human travel, but so far has only been used to deliver cargo to the International Space Station (ISS)."
-    
+
 }
 
 

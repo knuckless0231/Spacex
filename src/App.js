@@ -16,9 +16,9 @@ function App(props) {
     <Footer />
     <div className={s.main}>
       <Routes>
-      <Route path="/" element={<Main state={props.state} />} />
+        <Route path="/" element={<Main state={props.state} />} />
         <Route path="/Main" element={<Main state={props.state} />} />
-        <Route path="/Picarr" element={ <Picarr state={props.state} /> } />
+        <Route path="/Picarr" element={<Picarr state={props.state} />} />
         {/* Picarr це додаткове завдання з массиву фоток у вигляді каруселі */}
       </Routes>
     </div>
