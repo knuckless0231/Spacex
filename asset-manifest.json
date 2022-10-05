@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/knuckless0231/Spacex.git/static/css/main.5eb218db.css",
+    "main.js": "/knuckless0231/Spacex.git/static/js/main.918f6d41.js",
+    "static/js/787.4f608640.chunk.js": "/knuckless0231/Spacex.git/static/js/787.4f608640.chunk.js",
+    "index.html": "/knuckless0231/Spacex.git/index.html",
+    "main.5eb218db.css.map": "/knuckless0231/Spacex.git/static/css/main.5eb218db.css.map",
+    "main.918f6d41.js.map": "/knuckless0231/Spacex.git/static/js/main.918f6d41.js.map",
+    "787.4f608640.chunk.js.map": "/knuckless0231/Spacex.git/static/js/787.4f608640.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5eb218db.css",
+    "static/js/main.918f6d41.js"
+  ]
+}
